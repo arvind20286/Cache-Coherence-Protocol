@@ -1,0 +1,133 @@
+*** Directory:
+Block 0: State M, Owner 2, Sharers [False, False, False, False]
+Block 1: State M, Owner 3, Sharers [False, False, False, False]
+Block 2: State S, Owner -1, Sharers [True, False, False, False]
+Block 3: State I, Owner -1, Sharers [False, False, False, False]
+Block 4: State M, Owner 1, Sharers [False, False, False, False]
+Block 5: State M, Owner 2, Sharers [False, False, False, False]
+Block 6: State M, Owner 1, Sharers [False, False, False, False]
+Block 7: State I, Owner -1, Sharers [False, False, False, False]
+Block 8: State I, Owner -1, Sharers [False, False, False, False]
+Block 9: State M, Owner 1, Sharers [False, False, False, False]
+Block 10: State I, Owner -1, Sharers [False, False, False, False]
+Block 11: State M, Owner 3, Sharers [False, False, False, False]
+Block 12: State M, Owner 1, Sharers [False, False, False, False]
+Block 13: State I, Owner -1, Sharers [False, False, False, False]
+Block 14: State I, Owner -1, Sharers [False, False, False, False]
+Block 15: State M, Owner 1, Sharers [False, False, False, False]
+Block 16: State S, Owner -1, Sharers [False, False, False, True]
+Block 17: State I, Owner -1, Sharers [False, False, False, False]
+Block 18: State M, Owner 0, Sharers [False, False, False, False]
+Block 19: State S, Owner -1, Sharers [False, True, False, False]
+Block 20: State I, Owner -1, Sharers [False, False, False, False]
+Block 21: State S, Owner -1, Sharers [True, False, False, False]
+Block 22: State S, Owner -1, Sharers [False, True, False, False]
+Block 23: State I, Owner -1, Sharers [False, False, False, False]
+Block 24: State M, Owner 2, Sharers [False, False, False, False]
+Block 25: State M, Owner 0, Sharers [False, False, False, False]
+Block 26: State S, Owner -1, Sharers [False, False, True, False]
+Block 27: State I, Owner -1, Sharers [False, False, False, False]
+Block 28: State I, Owner -1, Sharers [False, False, False, False]
+Block 29: State M, Owner 1, Sharers [False, False, False, False]
+Block 30: State I, Owner -1, Sharers [False, False, False, False]
+Block 31: State I, Owner -1, Sharers [False, False, False, False]
+Block 32: State I, Owner -1, Sharers [False, False, False, False]
+Block 33: State M, Owner 2, Sharers [False, False, False, False]
+Block 34: State O, Owner 0, Sharers [True, False, False, False]
+Block 35: State M, Owner 3, Sharers [False, False, False, False]
+Block 36: State M, Owner 3, Sharers [False, False, False, False]
+Block 37: State M, Owner 0, Sharers [False, False, False, False]
+Block 38: State I, Owner -1, Sharers [False, False, False, False]
+Block 39: State I, Owner -1, Sharers [False, False, False, False]
+Block 40: State I, Owner -1, Sharers [False, False, False, False]
+Block 41: State M, Owner 2, Sharers [False, False, False, False]
+Block 42: State I, Owner -1, Sharers [False, False, False, False]
+Block 43: State I, Owner -1, Sharers [False, False, False, False]
+Block 44: State M, Owner 3, Sharers [False, False, False, False]
+Block 45: State I, Owner -1, Sharers [False, False, False, False]
+Block 46: State S, Owner -1, Sharers [False, False, True, False]
+Block 47: State I, Owner -1, Sharers [False, False, False, False]
+Block 48: State M, Owner 2, Sharers [False, False, False, False]
+Block 49: State M, Owner 0, Sharers [False, False, False, False]
+Block 50: State M, Owner 2, Sharers [False, False, False, False]
+Block 51: State M, Owner 1, Sharers [False, False, False, False]
+Block 52: State M, Owner 2, Sharers [False, False, False, False]
+Block 53: State I, Owner -1, Sharers [False, False, False, False]
+Block 54: State I, Owner -1, Sharers [False, False, False, False]
+Block 55: State I, Owner -1, Sharers [False, False, False, False]
+Block 56: State I, Owner -1, Sharers [False, False, False, False]
+Block 57: State M, Owner 3, Sharers [False, False, False, False]
+Block 58: State O, Owner 1, Sharers [False, True, False, True]
+Block 59: State I, Owner -1, Sharers [False, False, False, False]
+Block 60: State I, Owner -1, Sharers [False, False, False, False]
+Block 61: State S, Owner -1, Sharers [False, False, True, False]
+Block 62: State M, Owner 0, Sharers [False, False, False, False]
+Block 63: State S, Owner -1, Sharers [False, False, True, False]
+
+
+*** Main Memory:
+Memory Location 0: 2
+Memory Location 1: 0
+Memory Location 2: 0
+Memory Location 3: 0
+Memory Location 4: 10
+Memory Location 5: 0
+Memory Location 6: 0
+Memory Location 7: 0
+Memory Location 8: 0
+Memory Location 9: 0
+Memory Location 10: 0
+Memory Location 11: 0
+Memory Location 12: 0
+Memory Location 13: 0
+Memory Location 14: 0
+Memory Location 15: 1
+Memory Location 16: 0
+Memory Location 17: 0
+Memory Location 18: 0
+Memory Location 19: 0
+Memory Location 20: 0
+Memory Location 21: 0
+Memory Location 22: 0
+Memory Location 23: 0
+Memory Location 24: 0
+Memory Location 25: 0
+Memory Location 26: 0
+Memory Location 27: 0
+Memory Location 28: 0
+Memory Location 29: 6
+Memory Location 30: 0
+Memory Location 31: 0
+Memory Location 32: 0
+Memory Location 33: 1
+Memory Location 34: None
+Memory Location 35: 10
+Memory Location 36: 0
+Memory Location 37: 0
+Memory Location 38: 0
+Memory Location 39: 0
+Memory Location 40: 0
+Memory Location 41: 10
+Memory Location 42: 0
+Memory Location 43: 0
+Memory Location 44: 1
+Memory Location 45: 0
+Memory Location 46: 0
+Memory Location 47: 0
+Memory Location 48: 0
+Memory Location 49: 4
+Memory Location 50: 8
+Memory Location 51: 0
+Memory Location 52: 0
+Memory Location 53: 0
+Memory Location 54: 0
+Memory Location 55: 0
+Memory Location 56: 0
+Memory Location 57: 6
+Memory Location 58: 9
+Memory Location 59: 0
+Memory Location 60: 0
+Memory Location 61: 0
+Memory Location 62: 2
+Memory Location 63: 0
+----------------------------------------

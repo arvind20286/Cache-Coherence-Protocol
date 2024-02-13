@@ -1,0 +1,10 @@
+0 LS 0
+1 LS 1
+0 IN 0
+1 IN 1
+0 LS 0
+1 LM 1
+0 LS 1
+1 LM 0
+0 ADD 0
+0 UN 0

@@ -1,0 +1,568 @@
+Core 0 executed instruction 0 LS 0
+
+Line 0: Valid, State S, Tag 0, Data 0
+Line 1: Invalid, State I
+Line 2: Invalid, State I
+Line 3: Invalid, State I
+Block 0: State S, Owner -1, Sharers [True, False]
+Block 1: State I, Owner -1, Sharers [False, False]
+Block 2: State I, Owner -1, Sharers [False, False]
+Block 3: State I, Owner -1, Sharers [False, False]
+Block 4: State I, Owner -1, Sharers [False, False]
+Block 5: State I, Owner -1, Sharers [False, False]
+Block 6: State I, Owner -1, Sharers [False, False]
+Block 7: State I, Owner -1, Sharers [False, False]
+Block 8: State I, Owner -1, Sharers [False, False]
+Block 9: State I, Owner -1, Sharers [False, False]
+Block 10: State I, Owner -1, Sharers [False, False]
+Block 11: State I, Owner -1, Sharers [False, False]
+Block 12: State I, Owner -1, Sharers [False, False]
+Block 13: State I, Owner -1, Sharers [False, False]
+Block 14: State I, Owner -1, Sharers [False, False]
+Block 15: State I, Owner -1, Sharers [False, False]
+Block 16: State I, Owner -1, Sharers [False, False]
+Block 17: State I, Owner -1, Sharers [False, False]
+Block 18: State I, Owner -1, Sharers [False, False]
+Block 19: State I, Owner -1, Sharers [False, False]
+Block 20: State I, Owner -1, Sharers [False, False]
+Block 21: State I, Owner -1, Sharers [False, False]
+Block 22: State I, Owner -1, Sharers [False, False]
+Block 23: State I, Owner -1, Sharers [False, False]
+Block 24: State I, Owner -1, Sharers [False, False]
+Block 25: State I, Owner -1, Sharers [False, False]
+Block 26: State I, Owner -1, Sharers [False, False]
+Block 27: State I, Owner -1, Sharers [False, False]
+Block 28: State I, Owner -1, Sharers [False, False]
+Block 29: State I, Owner -1, Sharers [False, False]
+Block 30: State I, Owner -1, Sharers [False, False]
+Block 31: State I, Owner -1, Sharers [False, False]
+Memory Location 0: 0
+Memory Location 1: 0
+Memory Location 2: 0
+Memory Location 3: 0
+Memory Location 4: 0
+Memory Location 5: 0
+Memory Location 6: 0
+Memory Location 7: 0
+Memory Location 8: 0
+Memory Location 9: 0
+Memory Location 10: 0
+Memory Location 11: 0
+Memory Location 12: 0
+Memory Location 13: 0
+Memory Location 14: 0
+Memory Location 15: 0
+Memory Location 16: 0
+Memory Location 17: 0
+Memory Location 18: 0
+Memory Location 19: 0
+Memory Location 20: 0
+Memory Location 21: 0
+Memory Location 22: 0
+Memory Location 23: 0
+Memory Location 24: 0
+Memory Location 25: 0
+Memory Location 26: 0
+Memory Location 27: 0
+Memory Location 28: 0
+Memory Location 29: 0
+Memory Location 30: 0
+Memory Location 31: 0
+----------------------------------------
+Core 1 executed instruction 1 LM 0
+
+Line 0: Valid, State M, Tag 0, Data 0
+Line 1: Invalid, State I
+Line 2: Invalid, State I
+Line 3: Invalid, State I
+Block 0: State M, Owner 1, Sharers [False, False]
+Block 1: State I, Owner -1, Sharers [False, False]
+Block 2: State I, Owner -1, Sharers [False, False]
+Block 3: State I, Owner -1, Sharers [False, False]
+Block 4: State I, Owner -1, Sharers [False, False]
+Block 5: State I, Owner -1, Sharers [False, False]
+Block 6: State I, Owner -1, Sharers [False, False]
+Block 7: State I, Owner -1, Sharers [False, False]
+Block 8: State I, Owner -1, Sharers [False, False]
+Block 9: State I, Owner -1, Sharers [False, False]
+Block 10: State I, Owner -1, Sharers [False, False]
+Block 11: State I, Owner -1, Sharers [False, False]
+Block 12: State I, Owner -1, Sharers [False, False]
+Block 13: State I, Owner -1, Sharers [False, False]
+Block 14: State I, Owner -1, Sharers [False, False]
+Block 15: State I, Owner -1, Sharers [False, False]
+Block 16: State I, Owner -1, Sharers [False, False]
+Block 17: State I, Owner -1, Sharers [False, False]
+Block 18: State I, Owner -1, Sharers [False, False]
+Block 19: State I, Owner -1, Sharers [False, False]
+Block 20: State I, Owner -1, Sharers [False, False]
+Block 21: State I, Owner -1, Sharers [False, False]
+Block 22: State I, Owner -1, Sharers [False, False]
+Block 23: State I, Owner -1, Sharers [False, False]
+Block 24: State I, Owner -1, Sharers [False, False]
+Block 25: State I, Owner -1, Sharers [False, False]
+Block 26: State I, Owner -1, Sharers [False, False]
+Block 27: State I, Owner -1, Sharers [False, False]
+Block 28: State I, Owner -1, Sharers [False, False]
+Block 29: State I, Owner -1, Sharers [False, False]
+Block 30: State I, Owner -1, Sharers [False, False]
+Block 31: State I, Owner -1, Sharers [False, False]
+Memory Location 0: 0
+Memory Location 1: 0
+Memory Location 2: 0
+Memory Location 3: 0
+Memory Location 4: 0
+Memory Location 5: 0
+Memory Location 6: 0
+Memory Location 7: 0
+Memory Location 8: 0
+Memory Location 9: 0
+Memory Location 10: 0
+Memory Location 11: 0
+Memory Location 12: 0
+Memory Location 13: 0
+Memory Location 14: 0
+Memory Location 15: 0
+Memory Location 16: 0
+Memory Location 17: 0
+Memory Location 18: 0
+Memory Location 19: 0
+Memory Location 20: 0
+Memory Location 21: 0
+Memory Location 22: 0
+Memory Location 23: 0
+Memory Location 24: 0
+Memory Location 25: 0
+Memory Location 26: 0
+Memory Location 27: 0
+Memory Location 28: 0
+Memory Location 29: 0
+Memory Location 30: 0
+Memory Location 31: 0
+----------------------------------------
+Core 0 executed instruction 0 LS 0
+
+Line 0: Valid, State S, Tag 0, Data 0
+Line 1: Invalid, State I
+Line 2: Invalid, State I
+Line 3: Invalid, State I
+Block 0: State S, Owner -1, Sharers [True, True]
+Block 1: State I, Owner -1, Sharers [False, False]
+Block 2: State I, Owner -1, Sharers [False, False]
+Block 3: State I, Owner -1, Sharers [False, False]
+Block 4: State I, Owner -1, Sharers [False, False]
+Block 5: State I, Owner -1, Sharers [False, False]
+Block 6: State I, Owner -1, Sharers [False, False]
+Block 7: State I, Owner -1, Sharers [False, False]
+Block 8: State I, Owner -1, Sharers [False, False]
+Block 9: State I, Owner -1, Sharers [False, False]
+Block 10: State I, Owner -1, Sharers [False, False]
+Block 11: State I, Owner -1, Sharers [False, False]
+Block 12: State I, Owner -1, Sharers [False, False]
+Block 13: State I, Owner -1, Sharers [False, False]
+Block 14: State I, Owner -1, Sharers [False, False]
+Block 15: State I, Owner -1, Sharers [False, False]
+Block 16: State I, Owner -1, Sharers [False, False]
+Block 17: State I, Owner -1, Sharers [False, False]
+Block 18: State I, Owner -1, Sharers [False, False]
+Block 19: State I, Owner -1, Sharers [False, False]
+Block 20: State I, Owner -1, Sharers [False, False]
+Block 21: State I, Owner -1, Sharers [False, False]
+Block 22: State I, Owner -1, Sharers [False, False]
+Block 23: State I, Owner -1, Sharers [False, False]
+Block 24: State I, Owner -1, Sharers [False, False]
+Block 25: State I, Owner -1, Sharers [False, False]
+Block 26: State I, Owner -1, Sharers [False, False]
+Block 27: State I, Owner -1, Sharers [False, False]
+Block 28: State I, Owner -1, Sharers [False, False]
+Block 29: State I, Owner -1, Sharers [False, False]
+Block 30: State I, Owner -1, Sharers [False, False]
+Block 31: State I, Owner -1, Sharers [False, False]
+Memory Location 0: 0
+Memory Location 1: 0
+Memory Location 2: 0
+Memory Location 3: 0
+Memory Location 4: 0
+Memory Location 5: 0
+Memory Location 6: 0
+Memory Location 7: 0
+Memory Location 8: 0
+Memory Location 9: 0
+Memory Location 10: 0
+Memory Location 11: 0
+Memory Location 12: 0
+Memory Location 13: 0
+Memory Location 14: 0
+Memory Location 15: 0
+Memory Location 16: 0
+Memory Location 17: 0
+Memory Location 18: 0
+Memory Location 19: 0
+Memory Location 20: 0
+Memory Location 21: 0
+Memory Location 22: 0
+Memory Location 23: 0
+Memory Location 24: 0
+Memory Location 25: 0
+Memory Location 26: 0
+Memory Location 27: 0
+Memory Location 28: 0
+Memory Location 29: 0
+Memory Location 30: 0
+Memory Location 31: 0
+----------------------------------------
+Core 1 executed instruction 1 LS 0
+
+Line 0: Valid, State S, Tag 0, Data 0
+Line 1: Invalid, State I
+Line 2: Invalid, State I
+Line 3: Invalid, State I
+Block 0: State S, Owner -1, Sharers [True, True]
+Block 1: State I, Owner -1, Sharers [False, False]
+Block 2: State I, Owner -1, Sharers [False, False]
+Block 3: State I, Owner -1, Sharers [False, False]
+Block 4: State I, Owner -1, Sharers [False, False]
+Block 5: State I, Owner -1, Sharers [False, False]
+Block 6: State I, Owner -1, Sharers [False, False]
+Block 7: State I, Owner -1, Sharers [False, False]
+Block 8: State I, Owner -1, Sharers [False, False]
+Block 9: State I, Owner -1, Sharers [False, False]
+Block 10: State I, Owner -1, Sharers [False, False]
+Block 11: State I, Owner -1, Sharers [False, False]
+Block 12: State I, Owner -1, Sharers [False, False]
+Block 13: State I, Owner -1, Sharers [False, False]
+Block 14: State I, Owner -1, Sharers [False, False]
+Block 15: State I, Owner -1, Sharers [False, False]
+Block 16: State I, Owner -1, Sharers [False, False]
+Block 17: State I, Owner -1, Sharers [False, False]
+Block 18: State I, Owner -1, Sharers [False, False]
+Block 19: State I, Owner -1, Sharers [False, False]
+Block 20: State I, Owner -1, Sharers [False, False]
+Block 21: State I, Owner -1, Sharers [False, False]
+Block 22: State I, Owner -1, Sharers [False, False]
+Block 23: State I, Owner -1, Sharers [False, False]
+Block 24: State I, Owner -1, Sharers [False, False]
+Block 25: State I, Owner -1, Sharers [False, False]
+Block 26: State I, Owner -1, Sharers [False, False]
+Block 27: State I, Owner -1, Sharers [False, False]
+Block 28: State I, Owner -1, Sharers [False, False]
+Block 29: State I, Owner -1, Sharers [False, False]
+Block 30: State I, Owner -1, Sharers [False, False]
+Block 31: State I, Owner -1, Sharers [False, False]
+Memory Location 0: 0
+Memory Location 1: 0
+Memory Location 2: 0
+Memory Location 3: 0
+Memory Location 4: 0
+Memory Location 5: 0
+Memory Location 6: 0
+Memory Location 7: 0
+Memory Location 8: 0
+Memory Location 9: 0
+Memory Location 10: 0
+Memory Location 11: 0
+Memory Location 12: 0
+Memory Location 13: 0
+Memory Location 14: 0
+Memory Location 15: 0
+Memory Location 16: 0
+Memory Location 17: 0
+Memory Location 18: 0
+Memory Location 19: 0
+Memory Location 20: 0
+Memory Location 21: 0
+Memory Location 22: 0
+Memory Location 23: 0
+Memory Location 24: 0
+Memory Location 25: 0
+Memory Location 26: 0
+Memory Location 27: 0
+Memory Location 28: 0
+Memory Location 29: 0
+Memory Location 30: 0
+Memory Location 31: 0
+----------------------------------------
+Core 0 executed instruction 0 LS 0
+
+Line 0: Valid, State S, Tag 0, Data 0
+Line 1: Invalid, State I
+Line 2: Invalid, State I
+Line 3: Invalid, State I
+Block 0: State S, Owner -1, Sharers [True, True]
+Block 1: State I, Owner -1, Sharers [False, False]
+Block 2: State I, Owner -1, Sharers [False, False]
+Block 3: State I, Owner -1, Sharers [False, False]
+Block 4: State I, Owner -1, Sharers [False, False]
+Block 5: State I, Owner -1, Sharers [False, False]
+Block 6: State I, Owner -1, Sharers [False, False]
+Block 7: State I, Owner -1, Sharers [False, False]
+Block 8: State I, Owner -1, Sharers [False, False]
+Block 9: State I, Owner -1, Sharers [False, False]
+Block 10: State I, Owner -1, Sharers [False, False]
+Block 11: State I, Owner -1, Sharers [False, False]
+Block 12: State I, Owner -1, Sharers [False, False]
+Block 13: State I, Owner -1, Sharers [False, False]
+Block 14: State I, Owner -1, Sharers [False, False]
+Block 15: State I, Owner -1, Sharers [False, False]
+Block 16: State I, Owner -1, Sharers [False, False]
+Block 17: State I, Owner -1, Sharers [False, False]
+Block 18: State I, Owner -1, Sharers [False, False]
+Block 19: State I, Owner -1, Sharers [False, False]
+Block 20: State I, Owner -1, Sharers [False, False]
+Block 21: State I, Owner -1, Sharers [False, False]
+Block 22: State I, Owner -1, Sharers [False, False]
+Block 23: State I, Owner -1, Sharers [False, False]
+Block 24: State I, Owner -1, Sharers [False, False]
+Block 25: State I, Owner -1, Sharers [False, False]
+Block 26: State I, Owner -1, Sharers [False, False]
+Block 27: State I, Owner -1, Sharers [False, False]
+Block 28: State I, Owner -1, Sharers [False, False]
+Block 29: State I, Owner -1, Sharers [False, False]
+Block 30: State I, Owner -1, Sharers [False, False]
+Block 31: State I, Owner -1, Sharers [False, False]
+Memory Location 0: 0
+Memory Location 1: 0
+Memory Location 2: 0
+Memory Location 3: 0
+Memory Location 4: 0
+Memory Location 5: 0
+Memory Location 6: 0
+Memory Location 7: 0
+Memory Location 8: 0
+Memory Location 9: 0
+Memory Location 10: 0
+Memory Location 11: 0
+Memory Location 12: 0
+Memory Location 13: 0
+Memory Location 14: 0
+Memory Location 15: 0
+Memory Location 16: 0
+Memory Location 17: 0
+Memory Location 18: 0
+Memory Location 19: 0
+Memory Location 20: 0
+Memory Location 21: 0
+Memory Location 22: 0
+Memory Location 23: 0
+Memory Location 24: 0
+Memory Location 25: 0
+Memory Location 26: 0
+Memory Location 27: 0
+Memory Location 28: 0
+Memory Location 29: 0
+Memory Location 30: 0
+Memory Location 31: 0
+----------------------------------------
+Core 0 executed instruction 0 IN 0
+
+Line 0: Valid, State I, Tag 0, Data 0
+Line 1: Invalid, State I
+Line 2: Invalid, State I
+Line 3: Invalid, State I
+Block 0: State I, Owner -1, Sharers [False, False]
+Block 1: State I, Owner -1, Sharers [False, False]
+Block 2: State I, Owner -1, Sharers [False, False]
+Block 3: State I, Owner -1, Sharers [False, False]
+Block 4: State I, Owner -1, Sharers [False, False]
+Block 5: State I, Owner -1, Sharers [False, False]
+Block 6: State I, Owner -1, Sharers [False, False]
+Block 7: State I, Owner -1, Sharers [False, False]
+Block 8: State I, Owner -1, Sharers [False, False]
+Block 9: State I, Owner -1, Sharers [False, False]
+Block 10: State I, Owner -1, Sharers [False, False]
+Block 11: State I, Owner -1, Sharers [False, False]
+Block 12: State I, Owner -1, Sharers [False, False]
+Block 13: State I, Owner -1, Sharers [False, False]
+Block 14: State I, Owner -1, Sharers [False, False]
+Block 15: State I, Owner -1, Sharers [False, False]
+Block 16: State I, Owner -1, Sharers [False, False]
+Block 17: State I, Owner -1, Sharers [False, False]
+Block 18: State I, Owner -1, Sharers [False, False]
+Block 19: State I, Owner -1, Sharers [False, False]
+Block 20: State I, Owner -1, Sharers [False, False]
+Block 21: State I, Owner -1, Sharers [False, False]
+Block 22: State I, Owner -1, Sharers [False, False]
+Block 23: State I, Owner -1, Sharers [False, False]
+Block 24: State I, Owner -1, Sharers [False, False]
+Block 25: State I, Owner -1, Sharers [False, False]
+Block 26: State I, Owner -1, Sharers [False, False]
+Block 27: State I, Owner -1, Sharers [False, False]
+Block 28: State I, Owner -1, Sharers [False, False]
+Block 29: State I, Owner -1, Sharers [False, False]
+Block 30: State I, Owner -1, Sharers [False, False]
+Block 31: State I, Owner -1, Sharers [False, False]
+Memory Location 0: 0
+Memory Location 1: 0
+Memory Location 2: 0
+Memory Location 3: 0
+Memory Location 4: 0
+Memory Location 5: 0
+Memory Location 6: 0
+Memory Location 7: 0
+Memory Location 8: 0
+Memory Location 9: 0
+Memory Location 10: 0
+Memory Location 11: 0
+Memory Location 12: 0
+Memory Location 13: 0
+Memory Location 14: 0
+Memory Location 15: 0
+Memory Location 16: 0
+Memory Location 17: 0
+Memory Location 18: 0
+Memory Location 19: 0
+Memory Location 20: 0
+Memory Location 21: 0
+Memory Location 22: 0
+Memory Location 23: 0
+Memory Location 24: 0
+Memory Location 25: 0
+Memory Location 26: 0
+Memory Location 27: 0
+Memory Location 28: 0
+Memory Location 29: 0
+Memory Location 30: 0
+Memory Location 31: 0
+----------------------------------------
+Core 0 executed instruction 0 LS 0
+
+Line 0: Valid, State S, Tag 0, Data 0
+Line 1: Invalid, State I
+Line 2: Invalid, State I
+Line 3: Invalid, State I
+Block 0: State S, Owner -1, Sharers [True, False]
+Block 1: State I, Owner -1, Sharers [False, False]
+Block 2: State I, Owner -1, Sharers [False, False]
+Block 3: State I, Owner -1, Sharers [False, False]
+Block 4: State I, Owner -1, Sharers [False, False]
+Block 5: State I, Owner -1, Sharers [False, False]
+Block 6: State I, Owner -1, Sharers [False, False]
+Block 7: State I, Owner -1, Sharers [False, False]
+Block 8: State I, Owner -1, Sharers [False, False]
+Block 9: State I, Owner -1, Sharers [False, False]
+Block 10: State I, Owner -1, Sharers [False, False]
+Block 11: State I, Owner -1, Sharers [False, False]
+Block 12: State I, Owner -1, Sharers [False, False]
+Block 13: State I, Owner -1, Sharers [False, False]
+Block 14: State I, Owner -1, Sharers [False, False]
+Block 15: State I, Owner -1, Sharers [False, False]
+Block 16: State I, Owner -1, Sharers [False, False]
+Block 17: State I, Owner -1, Sharers [False, False]
+Block 18: State I, Owner -1, Sharers [False, False]
+Block 19: State I, Owner -1, Sharers [False, False]
+Block 20: State I, Owner -1, Sharers [False, False]
+Block 21: State I, Owner -1, Sharers [False, False]
+Block 22: State I, Owner -1, Sharers [False, False]
+Block 23: State I, Owner -1, Sharers [False, False]
+Block 24: State I, Owner -1, Sharers [False, False]
+Block 25: State I, Owner -1, Sharers [False, False]
+Block 26: State I, Owner -1, Sharers [False, False]
+Block 27: State I, Owner -1, Sharers [False, False]
+Block 28: State I, Owner -1, Sharers [False, False]
+Block 29: State I, Owner -1, Sharers [False, False]
+Block 30: State I, Owner -1, Sharers [False, False]
+Block 31: State I, Owner -1, Sharers [False, False]
+Memory Location 0: 0
+Memory Location 1: 0
+Memory Location 2: 0
+Memory Location 3: 0
+Memory Location 4: 0
+Memory Location 5: 0
+Memory Location 6: 0
+Memory Location 7: 0
+Memory Location 8: 0
+Memory Location 9: 0
+Memory Location 10: 0
+Memory Location 11: 0
+Memory Location 12: 0
+Memory Location 13: 0
+Memory Location 14: 0
+Memory Location 15: 0
+Memory Location 16: 0
+Memory Location 17: 0
+Memory Location 18: 0
+Memory Location 19: 0
+Memory Location 20: 0
+Memory Location 21: 0
+Memory Location 22: 0
+Memory Location 23: 0
+Memory Location 24: 0
+Memory Location 25: 0
+Memory Location 26: 0
+Memory Location 27: 0
+Memory Location 28: 0
+Memory Location 29: 0
+Memory Location 30: 0
+Memory Location 31: 0
+----------------------------------------
+Core 0 executed instruction 0 LS 0
+
+Line 0: Valid, State S, Tag 0, Data 0
+Line 1: Invalid, State I
+Line 2: Invalid, State I
+Line 3: Invalid, State I
+Block 0: State S, Owner -1, Sharers [True, False]
+Block 1: State I, Owner -1, Sharers [False, False]
+Block 2: State I, Owner -1, Sharers [False, False]
+Block 3: State I, Owner -1, Sharers [False, False]
+Block 4: State I, Owner -1, Sharers [False, False]
+Block 5: State I, Owner -1, Sharers [False, False]
+Block 6: State I, Owner -1, Sharers [False, False]
+Block 7: State I, Owner -1, Sharers [False, False]
+Block 8: State I, Owner -1, Sharers [False, False]
+Block 9: State I, Owner -1, Sharers [False, False]
+Block 10: State I, Owner -1, Sharers [False, False]
+Block 11: State I, Owner -1, Sharers [False, False]
+Block 12: State I, Owner -1, Sharers [False, False]
+Block 13: State I, Owner -1, Sharers [False, False]
+Block 14: State I, Owner -1, Sharers [False, False]
+Block 15: State I, Owner -1, Sharers [False, False]
+Block 16: State I, Owner -1, Sharers [False, False]
+Block 17: State I, Owner -1, Sharers [False, False]
+Block 18: State I, Owner -1, Sharers [False, False]
+Block 19: State I, Owner -1, Sharers [False, False]
+Block 20: State I, Owner -1, Sharers [False, False]
+Block 21: State I, Owner -1, Sharers [False, False]
+Block 22: State I, Owner -1, Sharers [False, False]
+Block 23: State I, Owner -1, Sharers [False, False]
+Block 24: State I, Owner -1, Sharers [False, False]
+Block 25: State I, Owner -1, Sharers [False, False]
+Block 26: State I, Owner -1, Sharers [False, False]
+Block 27: State I, Owner -1, Sharers [False, False]
+Block 28: State I, Owner -1, Sharers [False, False]
+Block 29: State I, Owner -1, Sharers [False, False]
+Block 30: State I, Owner -1, Sharers [False, False]
+Block 31: State I, Owner -1, Sharers [False, False]
+Memory Location 0: 0
+Memory Location 1: 0
+Memory Location 2: 0
+Memory Location 3: 0
+Memory Location 4: 0
+Memory Location 5: 0
+Memory Location 6: 0
+Memory Location 7: 0
+Memory Location 8: 0
+Memory Location 9: 0
+Memory Location 10: 0
+Memory Location 11: 0
+Memory Location 12: 0
+Memory Location 13: 0
+Memory Location 14: 0
+Memory Location 15: 0
+Memory Location 16: 0
+Memory Location 17: 0
+Memory Location 18: 0
+Memory Location 19: 0
+Memory Location 20: 0
+Memory Location 21: 0
+Memory Location 22: 0
+Memory Location 23: 0
+Memory Location 24: 0
+Memory Location 25: 0
+Memory Location 26: 0
+Memory Location 27: 0
+Memory Location 28: 0
+Memory Location 29: 0
+Memory Location 30: 0
+Memory Location 31: 0
+----------------------------------------
